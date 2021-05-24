@@ -1,0 +1,30 @@
+h1{
+    color:aquamarine;
+}
+.heading{
+    background-color:darkseagreen;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    border-style: dotted;
+    border-color: coral;
+    border-width:thick;
+    font-size: medium;
+    font-style: italic;
+    display:flex;
+    justify-content: flex-end;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    text-decoration:underline;
+}
